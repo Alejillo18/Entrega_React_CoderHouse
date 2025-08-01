@@ -5,8 +5,8 @@ function MainBody() {
   return (
     <>
       <div className="main-body">
-        <Title>Welcome to our E-Commerce Store</Title>
-        <Subtitle>Your one-stop shop for all things fashion</Subtitle>
+        <Title>Bienvenido a la E-Commerce</Title>
+        <Subtitle>Tu tienda Favorita 👨🏻‍💻👩🏾‍💻</Subtitle>
         <ContainerTable />
       </div>
     </>
